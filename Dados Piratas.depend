@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1719887897 source:h:\usuarios\noodledit\desktop\proyecto programacion 1\dados piratas\main.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"declaracion_funciones_dados.h"
+	<locale>
+
+1717644498 source:h:\usuarios\noodledit\desktop\proyecto programacion 1\dados piratas\declaracion_funciones_dados.h
+	<iostream>
+
+1718651724 h:\usuarios\noodledit\desktop\proyecto programacion 1\dados piratas\declaracion_funciones_dados.h
+	<iostream>
+	<time.h>
+	<vector>
+
+1719888576 source:h:\usuarios\noodledit\desktop\proyecto programacion 1\dados piratas\definicion_funciones_dados.cpp
+	<iomanip>
+	<iostream>
+	<string>
+	"declaracion_funciones_dados.h"
+	"rlutil.h"
+	<locale>
+
+1718548346 source:h:\usuarios\noodledit\desktop\proyecto programacion 1\dados piratas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718548346 h:\usuarios\noodledit\desktop\proyecto programacion 1\dados piratas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
